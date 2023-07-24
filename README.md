@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnnyMcJohnFace
 - 👀 I’m interested in programming, gaming, golf, STEM.
-- 🌱 I’m currently a freshman in high school.
-- 💞️ I’m looking to collaborate on other HTML projects.
+- 🌱 I’m currently a sophomore in high school.
+- 💞️ I’m looking to collaborate on other HTML and Python projects.
 - 📫 How to reach me: jkim26@bentleyschool.org
 
 <!---
